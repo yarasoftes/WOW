@@ -36,15 +36,16 @@
 WordGame/
 ├── index.html
 ├── css/
-│ ├── main.css
-│ └── components.css
+│   ├── main.css
+│   └── components.css
 ├── js/
-│ ├── config.js
-│ ├── utils.js
-│ ├── game.js
-│ └── ui.js
+│   ├── config.js
+│   ├── utils.js
+│   ├── game.js
+│   └── ui.js
 └── data/
-└── words.js
+    └── words.js
+
 
 
 ---
